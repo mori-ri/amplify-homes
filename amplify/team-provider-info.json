@@ -1,15 +1,32 @@
 {
   "staging": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplifyhomes-staging-40507-authRole",
-      "UnauthRoleArn": "arn:aws:iam::691460774223:role/amplify-amplifyhomes-staging-40507-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::691460774223:role/amplify-amplifyhomes-staging-40507-authRole",
-      "Region": "eu-west-2",
-      "DeploymentBucketName": "amplify-amplifyhomes-staging-40507-deployment",
-      "UnauthRoleName": "amplify-amplifyhomes-staging-40507-unauthRole",
-      "StackName": "amplify-amplifyhomes-staging-40507",
-      "StackId": "arn:aws:cloudformation:eu-west-2:691460774223:stack/amplify-amplifyhomes-staging-40507/0966a520-5325-11ec-b367-027cd13ae230",
-      "AmplifyAppId": "dafvyl12im7ac"
+      "AuthRoleName": "amplify-amplify1c1cf18a4c2f4-staging-54455-authRole",
+      "UnauthRoleArn": "arn:aws:iam::828178259857:role/amplify-amplify1c1cf18a4c2f4-staging-54455-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::828178259857:role/amplify-amplify1c1cf18a4c2f4-staging-54455-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify1c1cf18a4c2f4-staging-54455-deployment",
+      "UnauthRoleName": "amplify-amplify1c1cf18a4c2f4-staging-54455-unauthRole",
+      "StackName": "amplify-amplify1c1cf18a4c2f4-staging-54455",
+      "StackId": "arn:aws:cloudformation:us-east-1:828178259857:stack/amplify-amplify1c1cf18a4c2f4-staging-54455/179b7ff0-7e6b-11ec-8d54-1232dcee85bb",
+      "AmplifyAppId": "d21duuktla9o1y"
+    },
+    "categories": {
+      "auth": {
+        "amplifyhomes": {
+          "userPoolId": "us-east-1_5PUVPekhi",
+          "userPoolName": "amplifyvuealbumb8abde2a_userpool_b8abde2a-dev",
+          "webClientId": "6h2js9t024rq1rfjcdb2q9mqfc",
+          "nativeClientId": "6h2js9t024rq1rfjcdb2q9mqfc",
+          "identityPoolId": "us-east-1:eff0e773-1e0f-4230-8daa-f3d3cac65436",
+          "identityPoolName": "amplifyvuealbumb8abde2a_identitypool_b8abde2a__dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::828178259857:role/amplify-amplifyvue2album-dev-62108-authRole",
+          "authRoleName": "amplify-amplifyvue2album-dev-62108-authRole",
+          "unauthRoleArn": "arn:aws:iam::828178259857:role/amplify-amplifyvue2album-dev-62108-unauthRole",
+          "unauthRoleName": "amplify-amplifyvue2album-dev-62108-unauthRole"
+        }
+      }
     }
   }
 }
